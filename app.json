@@ -2,10 +2,11 @@
   "name": "Torrent AIO Bot",
   "description": "A bot for torrenting. Interfaces: web, telegram bot",
   "repository": "https://github.com/iykoou/torrent-aio-bot",
-	"env": {
-		"SITE": {
-			"value": "https://<your app name>.osc-fr1.scalingo.io/",
-		},
+  "env": {
+    "SITE": {
+     "value": "https://<your app name>.osc-fr1.scalingo.io/",
+	    }
+   }
   "formation": {
     "web": {
       "amount": 1,
