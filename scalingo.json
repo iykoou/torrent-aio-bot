@@ -1,7 +1,9 @@
 {
   "name": "Torrent AIO Bot",
   "description": "A bot for torrenting. Interfaces: web, telegram bot",
+  "logo": "https://scalingo.com/logo.svg",
   "repository": "https://github.com/iykoou/torrent-aio-bot",
+  "website": "https://github.com/iykoou/torrent-aio-bot",
   "env": {
     "SITE": {
       "description": "Scalingo site",
