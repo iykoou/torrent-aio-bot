@@ -1,0 +1,11 @@
+{
+  "name": "Torrent AIO Bot",
+  "description": "A bot for torrenting. Interfaces: web, telegram bot",
+  "repository": "https://github.com/iykoou/torrent-aio-bot",
+  "formation": {
+    "web": {
+      "amount": 1,
+      "size": "M"
+    }
+  }
+}
