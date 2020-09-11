@@ -4,9 +4,10 @@
   "repository": "https://github.com/iykoou/torrent-aio-bot",
   "env": {
     "SITE": {
-     "value": "https://<your app name>.osc-fr1.scalingo.io/",
-	    }
-   }
+      "description": "generated variable 1",
+      "value": "secret"
+    }
+  },
   "formation": {
     "web": {
       "amount": 1,
