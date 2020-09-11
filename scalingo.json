@@ -9,7 +9,6 @@
     },
     "TELEGRAM_TOKEN": {
       "description": "Fill your bot token if you want a telegram bot",
-      "required": "false"
     }
     "SEARCH_SITE": {
       "description": "Do not touch this",
