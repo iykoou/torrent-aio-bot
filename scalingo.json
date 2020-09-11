@@ -1,0 +1,25 @@
+{
+  "name": "Torrent AIO Bot",
+  "description": "A bot for torrenting. Interfaces: web, telegram bot",
+  "repository": "https://github.com/iykoou/torrent-aio-bot",
+  "env": {
+    "SITE": {
+      "description": "Scalingo site",
+      "value": "https://<app name>.osc-fr1.scalingo.io/"
+    },
+    "TELEGRAM_TOKEN": {
+      "description": "Fill your bot token if you want a telegram bot",
+      "required": "false"
+    }
+    "SEARCH_SITE": {
+      "description": "Do not touch this",
+      "value": "https://torrent-aio-bot.herokuapp.com/"
+    }
+  },
+  "formation": {
+    "web": {
+      "amount": 1,
+      "size": "M"
+    }
+  }
+}
