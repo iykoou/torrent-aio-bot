@@ -1,10 +1,6 @@
 # Torrent all-in-one bot
 
-Lorem ipsum i am too lazy figure what it does yourself
-
-You might be lazy too so here ya go:
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/patheticGeek/torrent-aio-bot)
+[![Runme](https://runme.io/static/button.svg)](https://runme.io/run?app_id=3fb7f222-0566-42b0-ac89-ac6f2f47ed93)
 
 Please dont start a test torrent download on my website it works you dont need to just wastes my drive space. Be carefuk when adding torrents to my deployment as it is deployed everytime i commit code here so your downloads may be interrupted.
 
