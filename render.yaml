@@ -2,4 +2,6 @@ services:
 - type: web
   name: aiobot
   env: node
+  buildCommand: cd web && npm install && npm run build
+  startCommand: NODE_ENV=production node index.js
   healthCheckPath: /
